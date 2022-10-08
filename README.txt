@@ -30,4 +30,5 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
+		Templates(https://html5up.net/dopetrope)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
